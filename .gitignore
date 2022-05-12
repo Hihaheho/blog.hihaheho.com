@@ -1,0 +1,8 @@
+*
+!*/
+public
+!/content/**/*.md
+!/themes
+!/.gitignore
+!/config.toml
+!/themes/**/*
